@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\obj\Debug\Stacks.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\bin\Debug\Stacks.exe.config
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\bin\Debug\Stacks.exe
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\bin\Debug\Stacks.pdb
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\obj\Debug\Stacks.exe
+D:\Visual Studio Projects\Test\How many stacks (for stackoverflow) is there\Stacks\Stacks\obj\Debug\Stacks.pdb
